@@ -4,6 +4,7 @@ Let me know if you need new features.
 ## Technical details
 - I host my app on the cloud application platform heroku (https://www.heroku.com), since their services are free for open source projects and it's a such easy way to deploy apps on this platform.
 - I host the API on the server https://universal-code-generator.herokuapp.com.
+- The project is built with Java, Spring Web and Spring Boot. 
 - Currently, I use the Barbecue library to create linear bar codes and the QRGen library to create qr codes.
 - The following bar codes are supported: EAN13, PDF417, Code128
 - Default image resolution is 160
