@@ -1,5 +1,6 @@
 # code-generator
-Inspired by the project SecScanQR (https://github.com/Fr4gorSoftware/SecScanQR), I created an REST-API for creating bar and qr codes. How to create an API, check out the online article on baeldung.com (https://www.baeldung.com/java-generating-barcodes-qr-codes) for more details.
+Inspired by the project SecScanQR (https://github.com/Fr4gorSoftware/SecScanQR), I created an REST-API for creating bar and qr codes. How to create an API, check out the online article on baeldung.com (https://www.baeldung.com/java-generating-barcodes-qr-codes) for more details. 
+Let me know if you need new features.
 ## Technical details
 - I host my app on the cloud application platform heroku (https://www.heroku.com), since their services are free for open source projects and it's a such easy way to deploy apps on this platform.
 - I host the API on the server https://universal-code-generator.herokuapp.com.
